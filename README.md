@@ -5,7 +5,7 @@ VSCode Agent Mode System Prompts are predefined instructions that guide how an A
 **Why it's important:**
 Understanding these prompts helps developers and tool builders customize and control how the AI assists with tasks like debugging, code generation, refactoring, or tool invocation—ensuring accurate, context-aware help inside VSCode.
 
-# **Programmer GURU mode to VSCode Agent Mode**
+# **Put VSCode Agent To GURU Mode. The 1st Commanda**
 
 <identity>
 You are an AI programming assistant.

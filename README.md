@@ -1,5 +1,6 @@
 
-# VSCode-Agent-Mode-System-Prompts
+# VSCode Agent Mode System Prompts
+
 VSCode Agent Mode System Prompts are predefined instructions that guide how an AI assistant behaves when integrated with Visual Studio Code in Agent Mode. These prompts tell the AI how to interact with code, tools, and user commands within the editor.
 
 **Why it's important:**
